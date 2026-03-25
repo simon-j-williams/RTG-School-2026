@@ -1,6 +1,6 @@
-numpy                   1.26.3
-PennyLane               0.36.0
-qiskit                  2.2.3
-qiskit-aer              0.17.2
-qiskit-algorithms       0.3.0
-matplotlib              3.8.0
+numpy                ==   1.26.3
+PennyLane            ==   0.36.0
+qiskit               ==   2.2.3
+qiskit-aer           ==   0.17.2
+qiskit-algorithms    ==   0.3.0
+matplotlib           ==   3.8.0
